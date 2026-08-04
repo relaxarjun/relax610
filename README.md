@@ -1,4 +1,4 @@
-# Hi, I'm RELAX👋
+### Hi! RELAX here 
 
 I'm a beginner developer who loves learning new technologies and building projects.
 

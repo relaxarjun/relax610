@@ -2,14 +2,14 @@
 
 I'm a beginner developer who loves learning new technologies and building projects.
 
-## About Me
-- 🌱L Currently learning **Python**, **C**, **C++**, and **HTML**
+# About Me
+- 🌱 Currently learning **Python**, **C**, **C++**, and **HTML**
 - 🐧 Linux enthusiast and terminal user
 - 📱 Android Custom ROM user and open-source fan
 -  Learning Git & GitHub
 -  Interested in Software Development, Linux, and Android
 
-##  Tech Stack
+#  Tech Stack
 -  Python
 -  C
 -  C++
@@ -17,7 +17,7 @@ I'm a beginner developer who loves learning new technologies and building projec
 -  Linux
 -  Git & GitHub
 
-## Currently Learning
+# Currently Learning
 - Python
 - C/C++
 - HTML
